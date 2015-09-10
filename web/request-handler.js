@@ -24,7 +24,7 @@ exports.handleRequest = function (req, res) {
     }
     if (req.method === 'POST') {
       console.log('post received by server');
-      helpers.processPost(req);
+      helpers.processPost(req, res);
     }
     
   }
