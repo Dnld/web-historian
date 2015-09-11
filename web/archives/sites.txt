@@ -1,4 +1,3 @@
 "www.google.com"
 "www.schepman.org"
 "www.amazon.com"
-"http://schepman.org"
